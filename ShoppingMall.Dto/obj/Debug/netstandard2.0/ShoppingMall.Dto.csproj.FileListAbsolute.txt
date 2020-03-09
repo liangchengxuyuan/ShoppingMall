@@ -1,0 +1,24 @@
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.deps.json
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.AssemblyInfoInputs.cache
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.AssemblyInfo.cs
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.deps.json
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.AssemblyInfoInputs.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.AssemblyInfo.cs
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.deps.json
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\bin\Debug\netstandard2.0\ShoppingMall.Dto.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.csprojAssemblyReference.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.AssemblyInfoInputs.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.AssemblyInfo.cs
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Dto\obj\Debug\netstandard2.0\ShoppingMall.Dto.pdb

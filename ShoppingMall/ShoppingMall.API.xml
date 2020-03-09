@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShoppingMall.API</name>
+    </assembly>
+    <members>
+        <member name="T:ShoppingMall.Controllers.ValuesController">
+            <summary>
+            测试模块
+            </summary>
+        </member>
+        <member name="M:ShoppingMall.Controllers.ValuesController.GetToken(ShoppingMall.Model.JwtToken)">
+            <summary>
+            获取token
+            </summary>
+            <param name="phone"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShoppingMall.Controllers.ValuesController.GetUser(System.String)">
+            <summary>
+            获取用户列表
+            </summary>
+            <param name="id">测试id</param>
+            <returns>用户列表</returns>
+        </member>
+        <member name="T:ShoppingMall.API.Middleware.AuthorizationMiddleware">
+            <summary>
+            JWT授权中间件
+            </summary>
+        </member>
+        <member name="F:ShoppingMall.API.Middleware.AuthorizationMiddleware._next">
+            <summary>
+            http委托
+            </summary>
+        </member>
+        <member name="M:ShoppingMall.API.Middleware.AuthorizationMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="next"></param>
+        </member>
+        <member name="M:ShoppingMall.API.Middleware.AuthorizationMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            验证授权
+            </summary>
+            <param name="httpContext"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

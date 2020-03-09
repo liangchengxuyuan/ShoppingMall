@@ -1,0 +1,89 @@
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\appsettings.json
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.deps.json
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.runtimeconfig.json
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.runtimeconfig.dev.json
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.xml
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IRepository.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IServices.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Repository.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Services.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IServices.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Repository.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Services.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IRepository.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.csprojAssemblyReference.cache
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorAssemblyInfo.cache
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorAssemblyInfo.cs
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.AssemblyInfoInputs.cache
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.AssemblyInfo.cs
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorTargetAssemblyInfo.cache
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.csproj.CopyComplete
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Common.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Common.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.xml
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.deps.json
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.runtimeconfig.json
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.runtimeconfig.dev.json
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.xml
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Common.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IRepository.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IServices.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Repository.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Services.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Common.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IServices.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Repository.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Services.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IRepository.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.xml
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.csprojAssemblyReference.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorAssemblyInfo.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorAssemblyInfo.cs
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.AssemblyInfoInputs.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.AssemblyInfo.cs
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorTargetAssemblyInfo.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.csproj.CopyComplete
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.deps.json
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.runtimeconfig.json
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.runtimeconfig.dev.json
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.API.xml
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Common.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IRepository.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IServices.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Repository.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Services.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Common.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IServices.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Repository.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Services.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.IRepository.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\bin\Debug\netcoreapp2.1\ShoppingMall.Model.xml
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.csprojAssemblyReference.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorAssemblyInfo.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorAssemblyInfo.cs
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.AssemblyInfoInputs.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.AssemblyInfo.cs
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.RazorTargetAssemblyInfo.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.csproj.CopyComplete
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall\obj\Debug\netcoreapp2.1\ShoppingMall.API.pdb

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShoppingMall.Model</name>
+    </assembly>
+    <members>
+        <member name="T:ShoppingMall.Model.JwtToken">
+            <summary>
+            JWT令牌类
+            </summary>
+        </member>
+        <member name="P:ShoppingMall.Model.JwtToken.UserId">
+            <summary>
+            用户Id
+            </summary>
+        </member>
+        <member name="P:ShoppingMall.Model.JwtToken.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:ShoppingMall.Model.JwtToken.Phone">
+            <summary>
+            手机
+            </summary>
+        </member>
+        <member name="P:ShoppingMall.Model.JwtToken.Email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:ShoppingMall.Model.JwtToken.Sub">
+            <summary>
+            身份
+            </summary>
+        </member>
+        <member name="T:ShoppingMall.Model.User">
+            <summary>
+            用户类
+            </summary>
+        </member>
+        <member name="P:ShoppingMall.Model.User.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:ShoppingMall.Model.User.Phone">
+            <summary>
+            手机号
+            </summary>
+        </member>
+        <member name="P:ShoppingMall.Model.User.GradeName">
+            <summary>
+            等级
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,50 @@
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.deps.json
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.IRepository.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.IRepository.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.csprojAssemblyReference.cache
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.AssemblyInfoInputs.cache
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.AssemblyInfo.cs
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.csproj.CopyComplete
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.pdb
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.xml
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Common.dll
+D:\A_NetCore\DapperCore\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Common.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.deps.json
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Common.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.IRepository.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Common.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.IRepository.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.pdb
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.xml
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.csprojAssemblyReference.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.AssemblyInfoInputs.cache
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.AssemblyInfo.cs
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.csproj.CopyComplete
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.dll
+C:\Program Files (x86)\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.deps.json
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Repository.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Common.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.IRepository.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Common.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.IRepository.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.pdb
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\bin\Debug\netstandard2.0\ShoppingMall.Model.xml
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.csprojAssemblyReference.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.AssemblyInfoInputs.cache
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.AssemblyInfo.cs
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.csproj.CopyComplete
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.dll
+C:\Program Files (x86)\ApplicationSoftware\A_Coding\ShoppingMall\ShoppingMall\ShoppingMall.Repository\obj\Debug\netstandard2.0\ShoppingMall.Repository.pdb
